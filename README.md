@@ -1,10 +1,4 @@
 
-## ローカルのフォルダをgit管理(リモートリポジトリに追加)する方法
-- 以下のコマンドを順に実行する
-  - git init
-  - git remote add origin git@github.com:diCieL/docker_test.git
-  - いつも通りコミットとプッシュを行う。
-
 ## よく使うコマンド
 docker exec -it sample-db bash
 psql -U postgres -d sample_db
